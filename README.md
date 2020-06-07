@@ -1,2 +1,2 @@
-# blogit
+# Blogit
 My personal blogging site
